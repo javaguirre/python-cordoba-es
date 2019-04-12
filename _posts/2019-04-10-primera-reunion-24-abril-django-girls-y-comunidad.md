@@ -12,3 +12,5 @@ Javier Aguirre nos hablará de las posibilidades que Python brinda a la hora de 
 En la segunda charla Nieves Borrero hablará sobre la vivencia como mentora en Django Girls y sobre cómo continuar aprendiendo Python, dónde pedir ayuda y todo lo que nos aporta la comunidad.
 
 Te esperamos en [La Zona Coworking](https://goo.gl/maps/fGAEM7JaM7J2) el 24 de Abril a las 19:00!
+
+[Podéis confirmar vuestra asistencia en el grupo de meetup](https://www.meetup.com/es-ES/Meetup-de-Python-en-Cordoba/events/260563429/).
