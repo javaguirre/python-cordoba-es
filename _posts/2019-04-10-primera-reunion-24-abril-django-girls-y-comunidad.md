@@ -13,3 +13,5 @@ En la segunda charla Nieves Borrero hablará sobre la vivencia como mentora en D
 formar parte de la comunidad, dónde pedir ayuda y cómo continuar aprendiendo Python.
 
 Te esperamos en [La Zona Coworking](https://goo.gl/maps/fGAEM7JaM7J2) el 24 de Abril a las 19:00!
+
+[Podéis confirmar vuestra asistencia en el grupo de meetup](https://www.meetup.com/es-ES/Meetup-de-Python-en-Cordoba/events/260563429/).
